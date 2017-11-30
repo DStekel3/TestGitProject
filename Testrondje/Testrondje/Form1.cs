@@ -14,6 +14,7 @@ namespace Testrondje
     {
         public Form1()
         {
+          string s = "hoi";
             InitializeComponent();
         }
     }
